@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4aeb768d-d1e2-43e7-87c7-c9be70bee495",
+    "email": "arghadey640@gmail.com",
+    "password": "$2a$10$pVoGgECi9ObS1ZGiXUFi..khUDlEmGZ4Eo.KZGrznq4TtX95Z65PO",
+    "role": "admin",
+    "createdAt": "2026-02-11T17:18:59.959Z"
+  },
+  {
+    "id": "ccd0ae82-c456-4e2e-be24-02e26017e244",
+    "email": "argha101008@gmail.com",
+    "password": "$2a$10$86JrZFoQJ3BC7oKkcZrjauyT0.oA/D41U.ARt2bz40FIKkt4VO7Fy",
+    "role": "user",
+    "createdAt": "2026-02-12T07:22:07.050Z"
+  }
+]

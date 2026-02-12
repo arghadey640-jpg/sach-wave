@@ -1,0 +1,17 @@
+{
+  "name": "sach-wave",
+  "version": "1.0.0",
+  "description": "Sach Wave Social Media Web App",
+  "scripts": {
+    "install-all": "cd client && npm install && cd ../server && npm install",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "all": "^0.0.0"
+  }
+}
